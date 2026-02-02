@@ -30,3 +30,4 @@ This is a **static design only** — no cart or payment system.
 ---
 
 👩‍💻 **Author:** Sakshi Baviskar
+
